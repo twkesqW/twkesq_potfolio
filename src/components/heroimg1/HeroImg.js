@@ -3,7 +3,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "../../index.css";
 import 'animate.css';
-import Typed from 'react-typed';
+import {Typed} from 'react-typed';
 
 const HeroImg = () => {
   return <div className="hero">
